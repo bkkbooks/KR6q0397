@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0397_000-J.yaml, hash: 'sha256:7799981aeb1977a979f3e9fe884d6dd933bb15979c7575f47ee59fe199aafef8'}
+  - {seq: 0, filename: KR6q0397_000-J.yaml, hash: 'sha256:03c66617f900527bb49318fb3dc0a24ae7f34c219f7267ff6dfc301fbc3df191'}
   - {seq: 1, filename: KR6q0397_001-J.yaml, hash: 'sha256:908ff4c9385b1d8d4075cda482d659501f6050b1697af721beaff7bc6f24d4c1'}
   - {seq: 2, filename: KR6q0397_002-J.yaml, hash: 'sha256:7d87614c4728919bdefa386d2dde087876226b4e5d96b1a537ba9e3e1effc470'}
   - {seq: 3, filename: KR6q0397_003-J.yaml, hash: 'sha256:367a47514847bf3842575e0b86528c9e2d9101f06fd0558f1560b8a9f61e82eb'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 14, filename: KR6q0397_014-J.yaml, hash: 'sha256:545cbe8a44ffbf59bf5aa81b5185fbe60fc2ccb0b7ad0a0731970064531481e6'}
   - {seq: 15, filename: KR6q0397_015-J.yaml, hash: 'sha256:29e983b44a3aed7bac1879ebbe025973920bf1c875616a61ad98a28214248ee6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0397_000-J.markers.yaml, hash: 'sha256:7692af48982d4c72d25e3141072d1901e7cc6d86970d37e02cf4838d51523044'}
+  - {seq: 0, role: markers, filename: assets/KR6q0397_000-J.markers.yaml, hash: 'sha256:36228683f6eed31f1f2c38e7b0837df7563e99ee3ba318d988278763cebc4043'}
   - {seq: 1, role: markers, filename: assets/KR6q0397_001-J.markers.yaml, hash: 'sha256:5f1dbbfeb44f449cf4f148351a5f0ffc675bcbd933ab7264e53a60f2c38a400a'}
   - {seq: 2, role: markers, filename: assets/KR6q0397_002-J.markers.yaml, hash: 'sha256:0f250ad94f1d3c6875bb88d543c5a5503fa514569d2a18600acb5da4eaa2a061'}
   - {seq: 3, role: markers, filename: assets/KR6q0397_003-J.markers.yaml, hash: 'sha256:3400772cd12f2f9cf04801919f4b101deac3b377b0e366796ac579aced178e18'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0397_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0397_J_000-mulu-2
     span:
-    - front
+    - body
     - 775
     - 775
   label: 總目
@@ -3433,4 +3433,4 @@ table_of_contents:
   label: 後序
   type: mulu
   level: 1
-hash: sha256:b4a36e9e85d0124ec57c3029dbaa99c3273a584e99313fcb45e17e161586829c
+hash: sha256:262142485ce100eec796509b2f2d5009c0dc526aeed461d9161cbe9fc455c510
